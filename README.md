@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umer Akmal</h1>
-<h3 align="center">A Passionate System Administrator and DevOps Engineer &#127470;&#127475</h3>
+<h3 align="center">A Passionate System Administrator and DevOps Engineer &#127477;&#127472;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
