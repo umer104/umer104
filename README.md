@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umer Akmal</h1>
 <h3 align="center">A Passionate System Administrator and DevOps Engineer &#127477;&#127472;</h3>
-
+<hr>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -18,8 +18,7 @@
 - 📫 How to reach me **umerakmalku@gmail.com**
 
 - 📄 Know about my experiences <a href="https://mumer.xyz/assets/resume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<hr/>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -37,11 +36,7 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <!--icons and links-->
 <p align="center">
