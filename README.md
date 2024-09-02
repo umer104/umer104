@@ -56,16 +56,18 @@
   </div>
 
   <!-- Project 2 -->
-  <div style="display: flex; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px;">
-    <div style="flex: 1; display: flex; align-items: center;">
-      <img src="https://via.placeholder.com/100x100" alt="Project 2" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
-      <h4 style="margin: 0;">Project Name 2</h4>
+  <div style="border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px;">
+    <div style="float: left; width: 50%; display: flex; align-items: center;">
+        <img src="https://via.placeholder.com/100x100" alt="Project 2" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
+        <h4 style="margin: 0;">Project Name 2</h4>
     </div>
-    <div style="flex: 1; text-align: left;">
-      <p style="margin: 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
-      <a href="https://github.com/yourusername/project2" target="_blank">View Project</a>
+    <div style="float: right; width: 50%; text-align: left;">
+        <p style="margin: 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
+        <a href="https://github.com/yourusername/project2" target="_blank">View Project</a>
     </div>
-  </div>
+    <div style="clear: both;"></div>
+</div>
+
 
   <!-- Project 3 -->
   <div style="display: flex; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px;">
