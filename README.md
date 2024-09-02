@@ -41,31 +41,40 @@
   </ul>
 </div>
 
-<!-- Projects inline layout with floated elements -->
-<div align="center">
-  <div style="overflow: hidden; max-width: 600px; margin: 20px; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-    <img src="https://via.placeholder.com/100x100" alt="Project 1" style="float: left; width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
-    <div style="float: right; text-align: left; max-width: 450px;">
+<!-- Projects inline layout with 50/50 split -->
+<div align="center" style="max-width: 800px; margin: 20px auto;">
+  <!-- Project 1 -->
+  <div style="display: flex; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px;">
+    <div style="flex: 1; display: flex; align-items: center;">
+      <img src="https://via.placeholder.com/100x100" alt="Project 1" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
       <h4 style="margin: 0;">Project Name 1</h4>
-      <p style="margin: 5px 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
+    </div>
+    <div style="flex: 1; text-align: left;">
+      <p style="margin: 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
       <a href="https://github.com/yourusername/project1" target="_blank">View Project</a>
     </div>
   </div>
 
-  <div style="overflow: hidden; max-width: 600px; margin: 20px; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-    <img src="https://via.placeholder.com/100x100" alt="Project 2" style="float: left; width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
-    <div style="float: right; text-align: left; max-width: 450px;">
+  <!-- Project 2 -->
+  <div style="display: flex; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px;">
+    <div style="flex: 1; display: flex; align-items: center;">
+      <img src="https://via.placeholder.com/100x100" alt="Project 2" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
       <h4 style="margin: 0;">Project Name 2</h4>
-      <p style="margin: 5px 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
+    </div>
+    <div style="flex: 1; text-align: left;">
+      <p style="margin: 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
       <a href="https://github.com/yourusername/project2" target="_blank">View Project</a>
     </div>
   </div>
 
-  <div style="overflow: hidden; max-width: 600px; margin: 20px; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
-    <img src="https://via.placeholder.com/100x100" alt="Project 3" style="float: left; width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
-    <div style="float: right; text-align: left; max-width: 450px;">
+  <!-- Project 3 -->
+  <div style="display: flex; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px;">
+    <div style="flex: 1; display: flex; align-items: center;">
+      <img src="https://via.placeholder.com/100x100" alt="Project 3" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
       <h4 style="margin: 0;">Project Name 3</h4>
-      <p style="margin: 5px 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
+    </div>
+    <div style="flex: 1; text-align: left;">
+      <p style="margin: 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
       <a href="https://github.com/yourusername/project3" target="_blank">View Project</a>
     </div>
   </div>
