@@ -41,36 +41,37 @@
   </ul>
 </div>
 
-<!-- Projects inline layout -->
+<!-- Projects inline layout with floated elements -->
 <div align="center">
-  <div style="display: flex; align-items: center; max-width: 600px; margin: 20px;">
-    <img src="https://via.placeholder.com/100x100" alt="Project 1" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
-    <div style="text-align: left;">
-      <h4>Project Name 1</h4>
+  <div style="overflow: hidden; max-width: 600px; margin: 20px; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+    <img src="https://via.placeholder.com/100x100" alt="Project 1" style="float: left; width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
+    <div style="float: right; text-align: left; max-width: 450px;">
+      <h4 style="margin: 0;">Project Name 1</h4>
       <p style="margin: 5px 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
       <a href="https://github.com/yourusername/project1" target="_blank">View Project</a>
     </div>
   </div>
 
-  <div style="display: flex; align-items: center; max-width: 600px; margin: 20px;">
-    <img src="https://via.placeholder.com/100x100" alt="Project 2" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
-    <div style="text-align: left;">
-      <h4>Project Name 2</h4>
+  <div style="overflow: hidden; max-width: 600px; margin: 20px; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+    <img src="https://via.placeholder.com/100x100" alt="Project 2" style="float: left; width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
+    <div style="float: right; text-align: left; max-width: 450px;">
+      <h4 style="margin: 0;">Project Name 2</h4>
       <p style="margin: 5px 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
       <a href="https://github.com/yourusername/project2" target="_blank">View Project</a>
     </div>
   </div>
 
-  <div style="display: flex; align-items: center; max-width: 600px; margin: 20px;">
-    <img src="https://via.placeholder.com/100x100" alt="Project 3" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
-    <div style="text-align: left;">
-      <h4>Project Name 3</h4>
+  <div style="overflow: hidden; max-width: 600px; margin: 20px; border-bottom: 1px solid #ddd; padding-bottom: 15px;">
+    <img src="https://via.placeholder.com/100x100" alt="Project 3" style="float: left; width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
+    <div style="float: right; text-align: left; max-width: 450px;">
+      <h4 style="margin: 0;">Project Name 3</h4>
       <p style="margin: 5px 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
       <a href="https://github.com/yourusername/project3" target="_blank">View Project</a>
     </div>
   </div>
 </div>
 <hr/>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
