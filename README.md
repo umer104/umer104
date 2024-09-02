@@ -32,6 +32,38 @@
     <img src="https://skillicons.dev/icons?i=git,github,html,css,react,django,flask,wordpress,vscode,postgres,redis,mongodb,mysql,postman,aws,gcp,azure,linux,redhat,ubuntu,kali,mint,maven,nginx,py,bash,elasticsearch,docker,selenium,ansible,jenkins,terraform,grafana,prometheus,kubernetes&perline=14" />
   </a>
 </p>
+<hr>
+
+<!-- Projects Section -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Projects I've Worked On 💻</h2></summary>
+  </ul>
+</div>
+
+<!-- Projects cards -->
+<div align="center">
+  <div style="display: inline-block; text-align: left; max-width: 400px; margin: 20px;">
+    <img src="https://via.placeholder.com/400x200" alt="Project 1" style="width: 100%; border-radius: 10px;">
+    <h3>Project Name 1</h3>
+    <p>A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
+    <a href="https://github.com/yourusername/project1" target="_blank">View Project</a>
+  </div>
+
+  <div style="display: inline-block; text-align: left; max-width: 400px; margin: 20px;">
+    <img src="https://via.placeholder.com/400x200" alt="Project 2" style="width: 100%; border-radius: 10px;">
+    <h3>Project Name 2</h3>
+    <p>A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
+    <a href="https://github.com/yourusername/project2" target="_blank">View Project</a>
+  </div>
+
+  <div style="display: inline-block; text-align: left; max-width: 400px; margin: 20px;">
+    <img src="https://via.placeholder.com/400x200" alt="Project 3" style="width: 100%; border-radius: 10px;">
+    <h3>Project Name 3</h3>
+    <p>A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
+    <a href="https://github.com/yourusername/project3" target="_blank">View Project</a>
+  </div>
+</div>
 
 <hr>
 <!-- Connect with me -->
