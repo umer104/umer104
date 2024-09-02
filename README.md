@@ -34,55 +34,22 @@
 </p>
 <hr>
 
-<!-- Projects Section -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Projects I've Worked On 💻</h2></summary>
-  </ul>
-</div>
+### Project 1
+![Project 1](https://via.placeholder.com/100x100)
+**[Project Name 1](https://github.com/yourusername/project1)**  
+A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.
 
-<!-- Projects inline layout with 50/50 split -->
-<div align="center" style="max-width: 800px; margin: 20px auto;">
-  <!-- Project 1 -->
-  <div style="display: flex; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px;">
-    <div style="flex: 1; display: flex; align-items: center;">
-      <img src="https://via.placeholder.com/100x100" alt="Project 1" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
-      <h4 style="margin: 0;">Project Name 1</h4>
-    </div>
-    <div style="flex: 1; text-align: left;">
-      <p style="margin: 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
-      <a href="https://github.com/yourusername/project1" target="_blank">View Project</a>
-    </div>
-  </div>
+### Project 2
+![Project 2](https://via.placeholder.com/100x100)
+**[Project Name 2](https://github.com/yourusername/project2)**  
+A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.
 
-  <!-- Project 2 -->
-  <div style="border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px;">
-    <div style="float: left; width: 50%; display: flex; align-items: center;">
-        <img src="https://via.placeholder.com/100x100" alt="Project 2" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
-        <h4 style="margin: 0;">Project Name 2</h4>
-    </div>
-    <div style="float: right; width: 50%; text-align: left;">
-        <p style="margin: 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
-        <a href="https://github.com/yourusername/project2" target="_blank">View Project</a>
-    </div>
-    <div style="clear: both;"></div>
-</div>
+### Project 3
+![Project 3](https://via.placeholder.com/100x100)
+**[Project Name 3](https://github.com/yourusername/project3)**  
+A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.
 
-
-  <!-- Project 3 -->
-  <div style="display: flex; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px;">
-    <div style="flex: 1; display: flex; align-items: center;">
-      <img src="https://via.placeholder.com/100x100" alt="Project 3" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
-      <h4 style="margin: 0;">Project Name 3</h4>
-    </div>
-    <div style="flex: 1; text-align: left;">
-      <p style="margin: 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
-      <a href="https://github.com/yourusername/project3" target="_blank">View Project</a>
-    </div>
-  </div>
-</div>
-<hr/>
-
+<hr>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
