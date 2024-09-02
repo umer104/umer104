@@ -41,31 +41,37 @@
   </ul>
 </div>
 
-<!-- Projects cards -->
+<!-- Projects inline layout -->
 <div align="center">
-  <div style="display: inline-block; text-align: left; max-width: 400px; margin: 20px;">
-    <img src="https://via.placeholder.com/400x200" alt="Project 1" style="width: 100%; border-radius: 10px;">
-    <h3>Project Name 1</h3>
-    <p>A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
-    <a href="https://github.com/yourusername/project1" target="_blank">View Project</a>
+  <div style="display: flex; align-items: center; max-width: 600px; margin: 20px;">
+    <img src="https://via.placeholder.com/100x100" alt="Project 1" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
+    <div style="text-align: left;">
+      <h4>Project Name 1</h4>
+      <p style="margin: 5px 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
+      <a href="https://github.com/yourusername/project1" target="_blank">View Project</a>
+    </div>
   </div>
 
-  <div style="display: inline-block; text-align: left; max-width: 400px; margin: 20px;">
-    <img src="https://via.placeholder.com/400x200" alt="Project 2" style="width: 100%; border-radius: 10px;">
-    <h3>Project Name 2</h3>
-    <p>A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
-    <a href="https://github.com/yourusername/project2" target="_blank">View Project</a>
+  <div style="display: flex; align-items: center; max-width: 600px; margin: 20px;">
+    <img src="https://via.placeholder.com/100x100" alt="Project 2" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
+    <div style="text-align: left;">
+      <h4>Project Name 2</h4>
+      <p style="margin: 5px 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
+      <a href="https://github.com/yourusername/project2" target="_blank">View Project</a>
+    </div>
   </div>
 
-  <div style="display: inline-block; text-align: left; max-width: 400px; margin: 20px;">
-    <img src="https://via.placeholder.com/400x200" alt="Project 3" style="width: 100%; border-radius: 10px;">
-    <h3>Project Name 3</h3>
-    <p>A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
-    <a href="https://github.com/yourusername/project3" target="_blank">View Project</a>
+  <div style="display: flex; align-items: center; max-width: 600px; margin: 20px;">
+    <img src="https://via.placeholder.com/100x100" alt="Project 3" style="width: 100px; height: 100px; border-radius: 10px; margin-right: 20px;">
+    <div style="text-align: left;">
+      <h4>Project Name 3</h4>
+      <p style="margin: 5px 0;">A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.</p>
+      <a href="https://github.com/yourusername/project3" target="_blank">View Project</a>
+    </div>
   </div>
 </div>
+<hr/>
 
-<hr>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
