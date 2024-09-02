@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently Working in <a href="https://autotel.pk/" target="blank">Autotelematics Private Limited.</a>
 
-- 🌱 I’m currently Working on Linux Server Management.
+- 🌱 I’m currently Working as a Linux Server Management.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently Intership in <a href="https://alnafi.com/" target="blank">Al Nafi</a> For DevOps.
+- 🌱 I have completed Intership in <a href="https://alnafi.com/" target="blank">Al Nafi</a> For a DevOps Engineer.
 
 - 💬 Ask me about **Linux & Web Development & Web Hosting & DevOps & Automation & Programming**
 
@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,react,django,flask,wordpress,vscode,postgres,redis,mongodb,mysql,postman,aws,gcp,azure,linux,redhat,ubuntu,kali,mint,maven,nginx,py,bash,elasticsearch,docker,selenium,jenkins,terraform,grafana,prometheus,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,react,django,flask,wordpress,vscode,postgres,redis,mongodb,mysql,postman,aws,gcp,azure,linux,redhat,ubuntu,kali,mint,maven,nginx,py,bash,elasticsearch,docker,selenium,ansible,jenkins,terraform,grafana,prometheus,kubernetes&perline=14" />
   </a>
 </p>
 
