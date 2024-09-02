@@ -34,23 +34,6 @@
 </p>
 <hr>
 
-### Project 1
-![Project 1](https://via.placeholder.com/100x100)
-**[Project Name 1](https://github.com/yourusername/project1)**  
-A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.
-
-### Project 2
-![Project 2](https://via.placeholder.com/100x100)
-**[Project Name 2](https://github.com/yourusername/project2)**  
-A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.
-
-### Project 3
-![Project 3](https://via.placeholder.com/100x100)
-**[Project Name 3](https://github.com/yourusername/project3)**  
-A brief description of the project goes here. Mention the tech stack, purpose, and any notable features.
-
-<hr>
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
