@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working at <a href="https://autotel.pk/" target="_blank">Qavi Technologies</a> as a DevOps Engineer.
+- 🔭 I’m currently working at <a href="https://qavi.tech" target="_blank">Qavi Technologies</a> as a DevOps Engineer.
 
 - 💼 I’m also a KodeKloud Engineer, where I continuously upskill through hands-on labs and real-world DevOps scenarios.
 
