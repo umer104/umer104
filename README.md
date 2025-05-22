@@ -1,24 +1,29 @@
 <h1 align="center">Hi 👋, I'm Umer Akmal</h1>
-<h3 align="center">A Passionate System Administrator and DevOps Engineer &#127477;&#127472;</h3>
+<h3 align="center">A Passionate DevOps & Cloud Engineer &#127477;&#127472;</h3>
 <hr>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working in <a href="https://autotel.pk/" target="blank">Autotelematics Private Limited.</a>
+- 🔭 I’m currently working at <a href="https://autotel.pk/" target="_blank">Qavi Technologies</a> as a DevOps Engineer.
 
-- 🌱 I’m currently Working as a Linux Server Management.
+- 💼 I’m also a KodeKloud Engineer, where I continuously upskill through hands-on labs and real-world DevOps scenarios.
 
-- 🤝 I’m available for freelancing.
+- 🧑‍💻 Previously worked as a DevOps Engineer at MindFlare Technologies.
 
-- 🌱 I have completed Intership in <a href="https://alnafi.com/" target="blank">Al Nafi</a> For a DevOps Engineer.
+- 🖥️ Former Linux Administrator at Autotelematics Pvt Ltd.
 
-- 💬 Ask me about **Linux & Web Development & Web Hosting & DevOps & Automation & Programming**
+- 🌱 Completed a DevOps Engineer Internship at <a href="https://alnafi.com/" target="_blank">Al Nafi</a>.
 
-- 📫 How to reach me **umerakmalku@gmail.com**
+- 📜 I hold certifications in DevOps, Linux, and Cloud Technologies (available on request or listed on my resume).
 
-- 📄 Know about my experiences <a href="https://mumer.xyz/assets/resume.pdf" target="blank">Resume</a>
-<hr/>
+- 🤝 I’m available for freelancing opportunities.
+
+- 💬 Ask me about Linux, Web Development, Web Hosting, DevOps, Automation, and Programming.
+
+- 📫 Reach me at umerakmalku@gmail.com
+
+- 📄 Learn more about my experience in my <a href="https://umerdevops.com/assets/resume/Umer_cv.pdf" target="_blank">Resume</a>.
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
